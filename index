@@ -11,7 +11,7 @@
 </head>
 <body>
    <header class="cabeçalho">
-    <span class="cabeçalho_menu_hamburger"></span>
+    <span class="cabeçalho_menu_hamburguer"></span>
     <img src="img/Logo.svg" alt="logo da Alurabooks">
     <a href="#"><img src="img/Favoritos.svg" alt="Meus favoritos"></a>
     <a href="#"><img src="img/Compras.svg"  alt="Carrinho de Compras"></a>
